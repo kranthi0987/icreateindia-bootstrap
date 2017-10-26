@@ -1,0 +1,26 @@
+#container {
+    overflow: hidden;
+    width: 80%;
+    height: 125px;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+#imgs {
+    display: block;
+    padding: 0;
+    width: 200%;
+}
+
+#imgs li {
+    padding-right: 10px;
+    display: inline-block;
+    *display: inline;
+}
+
+#imgs img {
+    width: 160px;
+    height: 120px;
+}
+
